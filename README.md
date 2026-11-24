@@ -9,9 +9,9 @@ published brief (concrete payoff, low risk, truth, craft).
 
 ## Entry
 
-`main.py` writes a single line to `/output/entry.txt`. The line (98 chars):
+`main.py` writes a single line to `/output/entry.txt`. The line (92 chars):
 
-> I ship your stalled project this week for one sprint of your pay: you pick the blocker, I come back Friday with it working.
+> Pick the one blocker stalling your project, and I'll ship it working by Friday for a single sprint of your pay — you keep the code.
 
 Run it: `python3 main.py` (writes `/output/entry.txt`).
 
